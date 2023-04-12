@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d36045fe.css",
+    "main.js": "/static/js/main.75994bdc.js",
+    "static/media/bg.jpg": "/static/media/bg.541a0c191a7c26d8c56a.jpg",
+    "static/media/church1.jpg": "/static/media/church1.7a245438a707f9e15793.jpg",
+    "static/media/church12.jpg": "/static/media/church12.6a5865e09e1a4d02a7b9.jpg",
+    "static/media/church4.jpg": "/static/media/church4.8b34425432c8179a48ba.jpg",
+    "static/media/church11.jpg": "/static/media/church11.449f12ea93a4a7ae54fb.jpg",
+    "static/media/church5.jpg": "/static/media/church5.79607aa2be5f51a1ff5a.jpg",
+    "static/media/church3.jpg": "/static/media/church3.25dcb49a3a80ac9e6974.jpg",
+    "static/media/church8.jpg": "/static/media/church8.3c4f76f68a8d4544e6b4.jpg",
+    "static/media/church9.jpg": "/static/media/church9.619375dd7db8c8f532eb.jpg",
+    "static/media/church2.jpg": "/static/media/church2.3f0ed836293fffd2d35a.jpg",
+    "static/media/church10.jpg": "/static/media/church10.d6bea1ba85689c7aa513.jpg",
+    "static/media/church6.jpg": "/static/media/church6.efcef48c3e35f8ee9fae.jpg",
+    "static/media/church7.jpg": "/static/media/church7.9b3a6cf79d1615491cb7.jpg",
+    "static/media/coreps.jpg": "/static/media/coreps.9cc9b5b3128f46b9da03.jpg",
+    "static/media/pastor.webp": "/static/media/pastor.b6cb87269d95574faceb.webp",
+    "index.html": "/index.html",
+    "main.d36045fe.css.map": "/static/css/main.d36045fe.css.map",
+    "main.75994bdc.js.map": "/static/js/main.75994bdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d36045fe.css",
+    "static/js/main.75994bdc.js"
+  ]
+}
